@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#224E6A</color>
+    <color name="colorPrimaryDark">#224E6A</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="lightCoral">#F67E7D</color>
+    <color name="japaneseIndigo">#273E47</color>
+</resources>
